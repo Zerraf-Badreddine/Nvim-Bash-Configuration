@@ -1,0 +1,1 @@
+/home/halationgaze/github/mybash/.bashrc
