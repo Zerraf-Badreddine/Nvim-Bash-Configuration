@@ -548,3 +548,296 @@ clear
 ghce
 ghcs
 clear
+cd /home/halationgaze/git\ files
+sudo apt install zoxide
+clear
+ls
+clear
+ls
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Zerraf-Badreddine/Nvim-Bash-Configuration.git
+git push -u origin main
+git add .
+git commit -m "Initial commit: Upload Nvim-Bash-Configuration files"
+git remote add origin <your_github_repository_url>
+git remote add origin https://github.com/Zerraf-Badreddine/Nvim-Bash-Configuration.git
+git push -u origin master
+git status
+git add .
+git commit -m "Initial commit: Upload Nvim-Bash-Configuration files"
+git commit -a
+git push -u origin master
+git push -u origin
+ls
+clear
+ls
+clear
+ls
+cd git \Folder
+cd git /Folder
+cd git \Folder
+cd git Folder/
+cd git\ folder
+clear
+cd git\ Folder
+ls
+clear
+ls
+git init
+git remote add origin https://github.com/Zerraf-Badreddine/Nvim-Bash-Configuration.git
+git add .
+git commit -m "Initial commit: Add files to repository"
+git add .
+git commit -m "Initial commit: Add files to repository"
+git push -u origin master
+git add .
+git commit -m "changed bashrc file because it was empty for some reason from 1st push"
+git push origin master
+git add nvim
+git push -u origin master
+git log
+git status
+git add nvim
+git commit -m "added nvim after a problem"
+git add nvim
+git commit
+git push -u origin master
+git add -A nvim
+git commit -m "trying on nvim"
+git commit
+git commit -a
+git push -u origin master
+git rm -r --cached nvim
+add .
+git add .
+git commit -m "Stop tracking nvim directory"
+git push origin master
+rm -rf nvim
+sudo apt install trash-cli
+rm -rf nvim
+git rm -r --cached nvim
+git add .
+git commit -m "Remove nvim directory"
+git push origin master
+git add nvim
+git commit -m "added nvim"
+git push origin master
+rm -rf nvim
+git rm -r --cached nvim
+git add .
+git push origin master
+git add .
+git commit -m "Remove nvim directory"
+git push origin master
+git add -A nvim
+git commit -m "adding nvim for the 1000 time"
+git push -u origin master
+rm -rf nvim
+git rm -r --cached nvim
+git commit -m "Remove nvim directory"
+git add .
+git push -u origin master
+git add .
+git commit -m "adding zip of nvim"
+git push -u origin master
+ls
+cclear
+ls
+clear
+source ~/.bashrc
+nano ~/.bashrc
+source ~/.bashrc
+clear
+ghce
+ls /usr
+echo 'alias lsu="ls /usr" >> ~/.bashrc
+
+lsu
+source ~/.bashrc
+lsu
+echo 'alias lsu="ls /usr" >> ~/.bashrc
+
+
+
+
+echo 'alias lsu="ls /usr" >> ~/.bashrc
+echo 'alias lsu="ls /usr" >> ~/.bashrc
+source ~/.bashrc
+cat ~/.bashrc
+lear
+clear
+lsu
+cat /etc/profile
+cat
+clear
+cat .profile
+clear
+cat .bashrc | grep PS1
+ls
+clear
+cd 
+/usr/bin/hollywood 
+clear
+hollywood
+clang++
+clnag++
+clang++
+c;ear
+clear
+cd git
+cd Folder/ github
+cd git/ Folder
+clear
+cd git
+cd git\ Folder
+shutdown -f
+ls
+nano .bashrc
+ls
+clear
+nano
+sudo apt install nano
+nano
+nvim
+nano
+nvim .bashrc
+nano
+sudo apt install --reinstall nano
+ls
+clear
+ls
+clear
+nano
+nvim .bashrc
+source .bashrc
+clear
+lsu
+nano
+alias nano
+nano
+echo $EDITOR
+echo $VISUAL
+echo $EDITOR
+echo %VISUAL
+unset EDITOR
+nano
+source .bashrc
+nano
+clear
+vim
+less
+sudo apt install less
+less
+clear
+ls
+clear
+ls
+clear
+l
+ls
+clear
+ls
+clear
+sudo apt remove gnome-terminal
+ls
+clear
+nano
+nvim
+vim
+echo $EDITOR
+unset $EDITOR
+echo $EDITOR
+source .bashrc
+echo $EDITOR
+nvim .bashrc
+code wkqeq.cpp
+rm wkqeq.cpp
+clear
+nvim .bashrc
+source .bashrc
+clear
+nano
+nano qeewq
+edit 
+edit lqew
+nvim .bashrc
+source .bashrc
+clear
+nano
+:q
+echo $EDITOR
+echo $VISUAL
+clear
+nvim
+sudo apt remove nano
+exit
+sudo apt install nano
+nano
+sedit
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+sudo su
+su
+sudo
+sudo -l
+cat /etc/sudoers
+sudo cat /etc/sudoers
+groups
+sudo -i
+su
+sudo -i
+chsh
+sudo usermod -s /bin/bash halationgaze
+source .bashrc
+clear
+finger -l
+su
+ls
+clear
+sudo -i
+sudo chsh -s /bin/bash halationgaze
+chsh -s /bin/bash halationgaze
+clear
+finger -l
+clear
+sudo -i -u halationgaze /bin/bash
+su
+sudo nano /etc/passwd
+whoami
+cat $SHELL
+unset SHELL
+cat $SHELL
+clear
+cat $SHELL
+unset SHELL
+sudo -i
+export SHELL=/bin/bash
+clear
+echo 'export SHELL=/bin/bash' >> ~/.bashrc
+clear
+sudo -i
+sudo chsh -s /bin/bash root
+sudo nano /etc/passwd
+ls
+clear
+ls
+cd ..
+ls
+clear
+cat $PS1
+ls
+clear
+cd ~/git\ Folder
+ls
+clear
+ls
